@@ -1,7 +1,6 @@
-Diabetes Prediction – Streamlit App
+Diabetes Prediction App deployed over Streamlit
 
 Steps to Run:
-
 1. Install Python (3.9 or above)
 2. Open terminal in this folder
 3. Run:
